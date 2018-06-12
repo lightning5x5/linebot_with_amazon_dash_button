@@ -2,6 +2,6 @@
   {
     "name": "Notify",
     "address": "your amazon dash button's mac address here",
-    "cmd": "/home/user/linebot/linebot-push.py"
+    "cmd": "/your/path/here/linebot-push.py"
   }
 ]}
